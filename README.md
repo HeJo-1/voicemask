@@ -114,6 +114,10 @@ pip install sounddevice soundfile numpy
 ```bash
 python3 tr.py
 ```
+
+## Örnek
+[kaydedilen_karisik_ses.wav](https://github.com/user-attachments/files/22196529/kaydedilen_karisik_ses.wav)
+
 ## 🤝 Katkıda Bulunma
 Katkılarınız bizim için değerlidir! Hata düzeltmeleri, yeni özellikler veya iyileştirmeler için Pull Request göndermekten çekinmeyin.
 
@@ -235,6 +239,11 @@ pip install sounddevice soundfile numpy
 ```bash
 python3 eng.py
 ```
+
+## Exaple
+[kaydedilen_karisik_ses.wav](https://github.com/user-attachments/files/22196530/kaydedilen_karisik_ses.wav)
+
+
 ## 🤝 Contributing
 Your contributions are valuable to us! Feel free to submit Pull Requests for bug fixes, new features, or improvements.
 
