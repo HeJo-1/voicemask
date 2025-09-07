@@ -166,7 +166,7 @@ def display_menu():
     print(f"{c.get_color(c.BRIGHT_YELLOW)}{c.BOLD}{'='*40}{c.RESET}")
 
     print(f"{c.get_color(c.BRIGHT_WHITE)} {c.BOLD}Seçenekler:{c.RESET}")
-    print(f" {c.get_color(c.GREEN)}{c.BOLD}1.{c.RESET} {c.BRIGHT_WHITE}Kaydet, İşle, Dinle ve Karışık Hali Kaydet {c.RESET}{c.get_color(c.BRIGHT_BLACK)}(5 sn kayıt){c.RESET}")
+    print(f" {c.get_color(c.GREEN)}{c.BOLD}1.{c.RESET} {c.BRIGHT_WHITE}Kaydet, İşle, Dinle ve Karışık Hali Kaydet {c.RESET}{c.get_color(c.BRIGHT_BLACK)}{c.RESET}")
     print(f" {c.get_color(c.BLUE)}{c.BOLD}2.{c.RESET} {c.BRIGHT_WHITE}Gerçek Zamanlı Ses Değiştirme {c.RESET}{c.get_color(c.BRIGHT_BLACK)}(Mikrofon → Kulaklık){c.RESET}")
     print(f" {c.get_color(c.RED)}{c.BOLD}3.{c.RESET} {c.BRIGHT_WHITE}Çıkış{c.RESET}")
     print(f"{c.get_color(c.BRIGHT_YELLOW)}{c.BOLD}{'='*40}{c.RESET}")
