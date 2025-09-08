@@ -115,6 +115,29 @@ pip install sounddevice soundfile numpy
 python3 tr.py
 ```
 
+## GUI 
+### Linux
+#### Ubuntu/Debian
+```bash
+sudo apt update
+sudo apt install python3-tk
+pip3 install cutomtkinter
+python3 gui.py
+```
+#### Fedora/Red Hat
+```bash
+sudo dnf install python3-tkinter
+pip3 install cutomtkinter
+python3 gui.py
+```
+### Windows
+```bash
+pip install cutomtkinter
+```
+<img width="603" height="430" alt="image" src="https://github.com/user-attachments/assets/2ec0e720-3624-4589-88de-b084967c510d" />
+
+
+
 ## Örnek
 [kaydedilen_karisik_ses.wav](https://github.com/user-attachments/files/22196529/kaydedilen_karisik_ses.wav)
 
@@ -239,6 +262,29 @@ pip install sounddevice soundfile numpy
 ```bash
 python3 eng.py
 ```
+
+## GUI 
+### Linux
+#### Ubuntu/Debian
+```bash
+sudo apt update
+sudo apt install python3-tk
+pip3 install cutomtkinter
+python3 gui.py
+```
+#### Fedora/Red Hat
+```bash
+sudo dnf install python3-tkinter
+pip3 install cutomtkinter
+python3 gui.py
+```
+
+### Windows
+```bash
+pip install cutomtkinter
+```
+<img width="603" height="430" alt="image" src="https://github.com/user-attachments/assets/91784090-a167-4679-9865-4177ebe189a5" />
+
 
 ## Exaple
 [kaydedilen_karisik_ses.wav](https://github.com/user-attachments/files/22196530/kaydedilen_karisik_ses.wav)
